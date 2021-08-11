@@ -26,19 +26,19 @@ Our mission is to enhance business growth of our customers with creative design,
 
 # Our Services
 
--> Concepts, UI & UX
--> Web & Mobile Application
--> Software Solutions
--> Managed Services
--> Cyber Security
--> 2D Animation
--> e-Learning
--> Education
+* Concepts, UI & UX
+* Web & Mobile Application
+* Software Solutions
+* Managed Services
+* Cyber Security
+* 2D Animation
+* e-Learning
+* Education
 
 
 # Ring Us
 We do not favour canned / automated responses. As we want people to know that they are talking to humans and not machines.
-Phone - <a href="tel:+919811460684">+919811460684</a>
-Phone - <a href="tel:+919966883734">+919966883734</a>
-Address - 808, Deccan Towers Basheerbagh, Hyderabad India.
-Email - <a href="mailto:info@5thdt.com">info@5thdt.com</a>
+* Phone - <a href="tel:+919811460684">+919811460684</a>
+* Phone - <a href="tel:+919966883734">+919966883734</a>
+* Address - 808, Deccan Towers Basheerbagh, Hyderabad India.
+* Email - <a href="mailto:info@5thdt.com">info@5thdt.com</a>
