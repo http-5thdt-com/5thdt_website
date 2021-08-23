@@ -197,7 +197,7 @@ $(function () {
 
 
     var swiperWorkMetro = new Swiper('.metro .swiper-container', {
-        slidesPerView: 2,
+        slidesPerView: 1,
         spaceBetween: 0,
         speed: 1000,
         loop: true,
